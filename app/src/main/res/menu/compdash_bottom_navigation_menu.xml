@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/compdash_icon_home" />
+
+    <item
+        android:id="@+id/room"
+        android:title="Room"
+        android:icon="@drawable/compdash_icon_menu" />
+
+    <item
+        android:id="@+id/profile"
+        android:title="Profile"
+        android:icon="@drawable/compdash_icon_account" />
+
+    <item
+        android:id="@+id/search"
+        android:title="Search"
+        android:icon="@drawable/compdash_icon_search" />
+
+</menu>
